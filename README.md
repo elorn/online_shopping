@@ -2,9 +2,8 @@
 
 ## Installation
 
-1.
-2.
-3.
+1.Atom  
+2.Xampp
 
 ## Usage
 
